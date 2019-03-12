@@ -1,0 +1,818 @@
+[
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app",
+        {
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552358986632,
+            "changeTime": 1552358986632,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552358986633,
+            "changeTime": 1552358986633,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361969244,
+            "changeTime": 1552361969244,
+            "contentHash": "5bf797a99c7097d8557ea4a356d29bfddb34e84d"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552358986635,
+            "changeTime": 1552358986635,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552358986637,
+            "changeTime": 1552358986637,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc",
+        {
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552359055856,
+            "changeTime": 1552359055856,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6586,
+            "modifiedTime": 1552361968132,
+            "changeTime": 1552361968132,
+            "contentHash": "a20788f5ddc09825ccec5a145a64771b12c5e141"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1552361968173,
+            "changeTime": 1552361968173,
+            "contentHash": "c258b37fa781a6aa1fb54cc65944d76836070d1e"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1552361968199,
+            "changeTime": 1552361968199,
+            "contentHash": "3702e052d5cec2db93ece00fd6754aa1f98f44b4"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1674,
+            "modifiedTime": 1552361968222,
+            "changeTime": 1552361968222,
+            "contentHash": "3a9ee39589a07493ccc7148e224c5dd176da503e"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2063,
+            "modifiedTime": 1552361968316,
+            "changeTime": 1552361968316,
+            "contentHash": "1223e889b00423732a9aae0d73299392d3b6f4f8"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2329,
+            "modifiedTime": 1552361968336,
+            "changeTime": 1552361968336,
+            "contentHash": "1034dc651bd7546d4062a6215d32b65a1c4639ce"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1552361968352,
+            "changeTime": 1552361968352,
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 591,
+            "modifiedTime": 1552361968376,
+            "changeTime": 1552361968376,
+            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1552361968394,
+            "changeTime": 1552361968394,
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1552361968413,
+            "changeTime": 1552361968413,
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1552361968441,
+            "changeTime": 1552361968441,
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1552361968492,
+            "changeTime": 1552361968492,
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1552361968524,
+            "changeTime": 1552361968524,
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1552361968560,
+            "changeTime": 1552361968560,
+            "contentHash": "23faa3d906c97d6940a714613c9e91858024c23e"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2072,
+            "modifiedTime": 1552361968619,
+            "changeTime": 1552361968619,
+            "contentHash": "d1c6e6181eb16f3823d5fca2e0d451467f9c2029"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1552361968631,
+            "changeTime": 1552361968631,
+            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1552361968641,
+            "changeTime": 1552361968641,
+            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1552361968667,
+            "changeTime": 1552361968667,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1552361968680,
+            "changeTime": 1552361968680,
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 499,
+            "modifiedTime": 1552361968699,
+            "changeTime": 1552361968699,
+            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1552361968715,
+            "changeTime": 1552361968715,
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1552361968741,
+            "changeTime": 1552361968741,
+            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1552361968754,
+            "changeTime": 1552361968754,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1552361968785,
+            "changeTime": 1552361968785,
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1552361968807,
+            "changeTime": 1552361968807,
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_of_Guests__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1552361968824,
+            "changeTime": 1552361968824,
+            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2057,
+            "modifiedTime": 1552361968889,
+            "changeTime": 1552361968889,
+            "contentHash": "d8e2e5f9bfbb88047ec5012f0424ef36072a7c78"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1552361968901,
+            "changeTime": 1552361968901,
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1552361968914,
+            "changeTime": 1552361968914,
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1552361968924,
+            "changeTime": 1552361968924,
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1552361968937,
+            "changeTime": 1552361968937,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1552361968946,
+            "changeTime": 1552361968946,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields\\Reservation_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1552361968975,
+            "changeTime": 1552361968975,
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3470,
+            "modifiedTime": 1552361968993,
+            "changeTime": 1552361968993,
+            "contentHash": "5df9b22c6b80a875e7c94d320b2483cb4beff429"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2915,
+            "modifiedTime": 1552361969010,
+            "changeTime": 1552361969010,
+            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3208,
+            "modifiedTime": 1552361969028,
+            "changeTime": 1552361969028,
+            "contentHash": "5ec5808fc48457ce90c31d4d5774b9bc94178a98"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1552361969055,
+            "changeTime": 1552361969055,
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9456,
+            "modifiedTime": 1552361969087,
+            "changeTime": 1552361969087,
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1552361969128,
+            "changeTime": 1552361969128,
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9771,
+            "modifiedTime": 1552361969231,
+            "changeTime": 1552361969231,
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9323,
+            "modifiedTime": 1552361969258,
+            "changeTime": 1552361969258,
+            "contentHash": "745649ad91745547d4c3c234d250d8269ddde74f"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8987,
+            "modifiedTime": 1552361969284,
+            "changeTime": 1552361969284,
+            "contentHash": "1dd9645c78f6035fe3efba9709ffe87e8d4db904"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8983,
+            "modifiedTime": 1552361969315,
+            "changeTime": 1552361969315,
+            "contentHash": "febda86acbbda2c516d46d14c249b0f119f8a73e"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24114,
+            "modifiedTime": 1552361969345,
+            "changeTime": 1552361969345,
+            "contentHash": "257d8e1b86f2bf792856856eb666beb0eb88cd7d"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968210,
+            "changeTime": 1552361968210,
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968319,
+            "changeTime": 1552361968319,
+            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968965,
+            "changeTime": 1552361968965,
+            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968546,
+            "changeTime": 1552361968546,
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968620,
+            "changeTime": 1552361968620,
+            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968816,
+            "changeTime": 1552361968816,
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968891,
+            "changeTime": 1552361968891,
+            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968940,
+            "changeTime": 1552361968940,
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968970,
+            "changeTime": 1552361968970,
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361968966,
+            "changeTime": 1552361968966,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361969212,
+            "changeTime": 1552361969212,
+            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8"
+        }
+    ],
+    [
+        "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\thclayton\\Documents\\Training\\Lightning Developer Training\\DevTraining\\myeslwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552361969335,
+            "changeTime": 1552361969335,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
