@@ -56,9 +56,9 @@
                 <label>Temporary Terrace</label>
             </value>
             <value>
-                <fullName>Walking Meditation Path</fullName>
+                <fullName>Walking Meditation Paths</fullName>
                 <default>false</default>
-                <label>Walking Meditation Path</label>
+                <label>Walking Meditation Paths</label>
             </value>
         </valueSetDefinition>
     </valueSet>
